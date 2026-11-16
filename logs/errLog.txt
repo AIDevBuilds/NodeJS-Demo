@@ -1,5 +1,0 @@
-20230323	20:03:17	2295294d-26b0-4842-8ad5-97e71a648d2a	Error: Not allowed by CORS
-20230324	13:41:09	9c20bf62-df21-4fab-956a-70fbab89ebfa	Error: Cannot set headers after they are sent to the client
-20230324	14:26:36	1577282c-5607-413e-9c40-ec1f2109f1b7	TypeError: Cannot destructure property 'error' of 'validateStudent(...)' as it is undefined.
-20230324	14:26:41	33cff2cd-5e6b-459c-b170-12d3d39a036a	TypeError: Cannot destructure property 'error' of 'validateStudent(...)' as it is undefined.
-20230324	14:27:19	5af01d65-3045-4ab6-b94a-7b61383b01e0	ReferenceError: next is not defined
